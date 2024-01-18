@@ -1,0 +1,19 @@
+.navbar{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    justify-content: space-evenly;
+}
+.main-nav{
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.logo{
+    font-family: 'Fleur De Leah', cursive;
+    font-family: 'Gwendolyn', cursive;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}

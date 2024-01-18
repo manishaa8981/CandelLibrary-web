@@ -1,0 +1,14 @@
+.home{
+    /*display: flex;*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
+    min-height: 100vh;
+    width: 100vw;
+    background: url("../../assets/150204_The_Candle_LibraryRESIZE_1800x (1).webp") no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
